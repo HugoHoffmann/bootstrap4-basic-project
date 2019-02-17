@@ -2,7 +2,9 @@
   background-image: url(../img/img.jpg);
   background-size: cover;
   background-position: center;
+  color: #fff;
+  border-radius: 0;
 }
-h1, p {
-  color: white;
+.btn{
+  border-radius: 0;
 }
